@@ -14,7 +14,7 @@ public class Quiz1
         
         if(m>=60)
         {
-        	///
+        	//
         }
                        
     }
